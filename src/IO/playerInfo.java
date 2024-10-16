@@ -36,7 +36,7 @@ public class playerInfo extends Connect4Logic {
      * @throws InterruptedException handle thread sleep to allow for each player to have adequate time to complete a move.
      */
     public void displayPlayInfo() throws InterruptedException {
-
+// Bug Fix
         Scanner scan = new Scanner(System.in);
 
         //take in player 1 name.
