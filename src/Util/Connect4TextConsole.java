@@ -16,6 +16,7 @@ public class Connect4TextConsole {
        playerInfo allplayers = new playerInfo();
        allplayers.displayPlayInfo();
 
+        System.out.println("Bug Fix");
 
     }
 
