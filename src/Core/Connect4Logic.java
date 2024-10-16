@@ -27,6 +27,7 @@ public abstract class Connect4Logic {
      * Responsible for constructing your Connect 4 game board by creating a 6 by 7 2D array. Set all values in the array to a blank string.
      */
     protected Connect4Logic() {
+        // fix logic
          connect4 = new String[rows][column];
         this.Blanck = " ";
         this.counter = rows -1;
