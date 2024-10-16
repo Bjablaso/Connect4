@@ -7,6 +7,7 @@ import java.util.Random;
  * This class gives players in this game a unique tag identifier.
  */
 public class PlayertagGenerator {
+    //improve generator logic
     private  final String CHARACTERS;
     private final  int NUMBERS_MIN; //
     private  final int NUMBERS_MAX; //
